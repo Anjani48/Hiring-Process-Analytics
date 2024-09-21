@@ -1,7 +1,7 @@
 # Hiring-Process-Analytics
 
 # Overview
-This project focuses on analyzing the hiring process within the company to gain insights into various aspects of recruitment efforts. By utilizing Excel and data visualization techniques, I aim to provide a comprehensive understanding of hiring practices and identify areas for improvement.
+This project focuses on analyzing the company's hiring process to gain insights into different aspects of recruitment. Using Excel and data visualization techniques, the goal is to provide a clear understanding of hiring practices and highlight areas for improvement.
 
 # Project Tasks and Outputs
 # Task 1: Gender Distribution in Hires
