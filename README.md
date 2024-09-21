@@ -5,10 +5,14 @@ This project focuses on analyzing the hiring process within our company to gain 
 
 # Project Tasks and Outputs
 # Task 1: Gender Distribution in Hires
+![image](https://github.com/user-attachments/assets/bbeea1c1-d902-4e7c-8219-4785308627fd)
+
 Insight: The hiring process has resulted in 2563 male and 1856 female hires.
 
 
 # Task 2: Average Salary Analysis
+![image](https://github.com/user-attachments/assets/f83fb989-417a-4569-bd53-4643d6512ca9)
+
 Insight: The average salary offered in the company is $49,752.90.
 
 
